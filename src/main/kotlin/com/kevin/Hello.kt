@@ -8,6 +8,10 @@ fun main() {
 }
 
 class Human{
+    val age = 25
+    val bike = "XSR900"
+    var weight = 77.5
+    val name = "Kevin"
     fun hello() {
     println("Hello Kotlin")
     }
